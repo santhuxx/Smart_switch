@@ -34,7 +34,7 @@ This project involves creating a Bluetooth-enabled smart switch with a touch sen
 ### Software Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Smart-Switch.git
+    git clone https://github.com/santhuxx/Smart_switch.git
     ```
 2. Open the Arduino code in the Arduino IDE and upload it to the Arduino Pro Mini.
 3. Install the custom app developed using MIT App Inventor on your Android device.
